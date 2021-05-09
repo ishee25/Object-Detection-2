@@ -1,0 +1,55 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading{
+    font-size: 30px;
+    margin-top: 20px;
+    background-color: pink;
+    width: 20%;
+    border-radius: 25px;
+    height: 45px;
+    text-align: center;
+    font-family: 'Cookie';
+    font-size: 40px;
+}
+
+.heading2{
+    font-size: 20px;
+    text-align: center;
+    font-family: 'Cookie';
+    font-size: 40px;
+    color: black;
+}
+
+a{
+    font-size: 20px;
+    width: 400px;
+    border-radius: 20px;
+    background-color: bisque;
+}
+
+.btn-dark{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+}
+
+.heading3{
+    font-size: 30px;
+    background-color:coral;
+    width: 15%;
+    color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Cookie';
+    font-size: 40px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 60px;
+}
